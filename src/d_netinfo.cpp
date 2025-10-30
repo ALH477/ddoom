@@ -91,7 +91,7 @@ enum
 	INFO_VertSpread,
 };
 
-const char *GenderNames[GENDER_MAX] = { "male", "female", "neutral", "other" };
+const char *GenderNames[GENDER_MAX] = { "male", "female"};
 
 // Replace \ with %/ and % with %%
 FString D_EscapeUserInfo (const char *str)
