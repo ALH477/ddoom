@@ -47,7 +47,8 @@
 #include "fs_findfile.h"
 #include "md5.hpp"
 #include "fs_stringpool.h"
-
++#include "streamdb_archive.h"
+	
 namespace FileSys {
 	
 // MACROS ------------------------------------------------------------------
