@@ -2,8 +2,8 @@
 ** streamdb_archive.cpp
 ** Ultimate StreamDb backend for GZDoom VFS - Production-ready with streaming, retries, namespaces.
 **
-** Copyright [Your Name/Year] - Adapt as needed.
-** Licensed under ZDoom terms (BSD-like).
+** Copyright [Asher LeRoy/2025] 
+** Licensed under GPLv.3
 */
 
 #include "streamdb_archive.h"
